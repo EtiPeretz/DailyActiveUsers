@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0554803-df8a-4f9b-925a-d1c4fe9719e1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Nice.iml" afterPath="$PROJECT_DIR$/Nice.iml" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nice/DailyActiveUsers.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nice/IDAU.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nice/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/Nice/input.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/DailyActiveUsers.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/IDAU.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/input.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java" afterPath="$PROJECT_DIR$/src/main/java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
